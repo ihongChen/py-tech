@@ -1,10 +1,11 @@
 ## Python技術手冊 - by陳信良
+[連結](http://www.books.com.tw/products/0010723229)
 
 練習寫python的好書,**好書**..不讀嗎？
 
-- [ ] ch1. Python起步走
-- [ ] ch2. REPL到IDE
-- [ ] ch3. 型態與運算子
+- [x] ch1. Python起步走
+- [x] ch2. REPL到IDE
+- [x] ch3. 型態與運算子
 - [ ] ch4. 流程語法與函式
 - [ ] ch5. 從模組到類別
 - [ ] ch6. 類別的繼承
