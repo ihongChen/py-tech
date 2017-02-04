@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "<ipython-input-2-0ffead2a1a14>", line 14, in <module>
+    c()
+  File "<ipython-input-2-0ffead2a1a14>", line 11, in c
+    b()
+  File "<ipython-input-2-0ffead2a1a14>", line 8, in b
+    a()
+  File "<ipython-input-2-0ffead2a1a14>", line 5, in a
+    return text.upper() # exception
+AttributeError: 'NoneType' object has no attribute 'upper'
